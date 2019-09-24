@@ -4,13 +4,6 @@ Andrey Somov
 email: hola131098@gmail.com
 # Skills 
 Python; Flask; HTML; CSS; Mercurial; JavaScript; PostgreSQL; SQL; SQLAlchemy; PHP; 1С-Битрикс
-# Experience 
-Manufacturing practice: development of web applications, databases
-# Education
-Samara State Technical University, Samara
-# English
-English courses on Duolingo
-
 # Code examples
     @login_manager.user_loader
     def load_user(user_id):
